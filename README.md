@@ -1,0 +1,2 @@
+# xrural
+nou projecte
